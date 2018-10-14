@@ -1,0 +1,285 @@
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.dll.config
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.pdb
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csprojResolveAssemblyReference.cache
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csproj.CoreCompileInputs.cache
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csproj.CopyComplete
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.pdb
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\bin\Debug\Newtonsoft.Json.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\bin\Debug\Newtonsoft.Json.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.dll.config
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\bin\Debug\sqlite3.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Data\bin\Debug\Data.json
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csprojResolveAssemblyReference.cache
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csproj.CoreCompileInputs.cache
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.pdb
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\sqlite3.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.dll.config
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.pdb
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\Newtonsoft.Json.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\Newtonsoft.Json.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.dll.config
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csproj.CopyComplete
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Model.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\Caliburn.Micro.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\FluentValidation.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.ValueTuple.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Model.pdb
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\Caliburn.Micro.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\FluentValidation.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.ValueTuple.xml
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\sqlite3.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.dll.config
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.pdb
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Model.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\Caliburn.Micro.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\FluentValidation.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.ValueTuple.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Model.pdb
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.xml
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.xml
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\Caliburn.Micro.xml
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\FluentValidation.xml
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.ValueTuple.xml
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csprojResolveAssemblyReference.cache
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\sqlite3.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.dll.config
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Model.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\Caliburn.Micro.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\FluentValidation.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.ValueTuple.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Model.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\Caliburn.Micro.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\FluentValidation.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\System.ValueTuple.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csprojResolveAssemblyReference.cache
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csproj.CopyComplete
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\sqlite3.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.dll.config
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\System.ValueTuple.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Model.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\Caliburn.Micro.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\FluentValidation.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Model.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\System.ValueTuple.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\Caliburn.Micro.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\FluentValidation.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csprojResolveAssemblyReference.cache
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csproj.CopyComplete
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.pdb
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\sqlite3.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.dll.config
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.pdb
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.ValueTuple.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Model.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\Caliburn.Micro.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\FluentValidation.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Model.pdb
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.pdb
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.xml
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.xml
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.xml
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.ValueTuple.xml
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\Caliburn.Micro.xml
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\FluentValidation.xml
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csprojResolveAssemblyReference.cache
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.dll.config
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.ValueTuple.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Model.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\Caliburn.Micro.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\FluentValidation.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Model.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.ValueTuple.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\Caliburn.Micro.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\FluentValidation.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csprojResolveAssemblyReference.cache
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csproj.CopyComplete
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.pdb
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.dll.config
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.pdb
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.ValueTuple.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Model.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\Caliburn.Micro.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\FluentValidation.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Model.pdb
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.pdb
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\System.ValueTuple.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\Caliburn.Micro.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\bin\Debug\FluentValidation.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csprojResolveAssemblyReference.cache
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.pdb
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.dll.config
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.pdb
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\System.ValueTuple.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Model.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\Caliburn.Micro.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\FluentValidation.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Model.pdb
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.pdb
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\System.ValueTuple.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\Caliburn.Micro.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\bin\Debug\FluentValidation.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csprojResolveAssemblyReference.cache
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.pdb
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.dll.config
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Data.pdb
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\System.ValueTuple.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Model.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\Caliburn.Micro.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\FluentValidation.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\TaskManagement.Model.pdb
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.pdb
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\AutoMapper.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\System.ValueTuple.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\Caliburn.Micro.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\bin\Debug\FluentValidation.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csprojResolveAssemblyReference.cache
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Data\obj\Debug\TaskManagement.Data.pdb

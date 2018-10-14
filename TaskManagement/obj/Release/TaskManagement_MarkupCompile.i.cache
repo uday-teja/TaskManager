@@ -1,0 +1,20 @@
+﻿TaskManagement
+
+
+winexe
+C#
+.cs
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\
+TaskManagement
+none
+false
+TRACE
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\App.xaml
+10989486870
+1-1682558329
+26-1970994786
+90-1978951047
+Resources\Icons.xaml;Resources\IconsNonShared.xaml;Styles\ScrollBar.xaml;Styles\Styles.xaml;Views\MainView.xaml;Views\SettingsView.xaml;Views\ShellView.xaml;Views\AddEditTaskView.xaml;Views\TaskArchiveView.xaml;Views\TaskManagerView.xaml;
+images\taskmanager _splashscreen.ico
+False
+

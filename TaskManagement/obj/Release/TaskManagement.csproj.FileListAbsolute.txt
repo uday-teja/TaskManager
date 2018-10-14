@@ -1,0 +1,272 @@
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\TaskManagement.exe.config
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\TaskManagement.exe
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\TaskManagement.pdb
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\AutoMapper.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.Platform.Core.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.Platform.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\ControlzEx.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\EntityFramework.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\EntityFramework.SqlServer.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\FluentValidation.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\GongSolutions.Wpf.DragDrop.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\System.ValueTuple.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\System.Windows.Interactivity.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\TaskManagement.Data.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\TaskManagement.Model.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\TaskManagement.Data.pdb
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\TaskManagement.Data.dll.config
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\TaskManagement.Model.pdb
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\AutoMapper.pdb
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\AutoMapper.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.Platform.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.Platform.Core.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\ControlzEx.pdb
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\EntityFramework.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\EntityFramework.SqlServer.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\FluentValidation.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\GongSolutions.Wpf.DragDrop.pdb
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\GongSolutions.Wpf.DragDrop.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.pdb
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\bin\Release\System.ValueTuple.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\TaskManagement.csprojResolveAssemblyReference.cache
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\Styles\Styles.baml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\Views\ShellView.baml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\Views\ShellView.g.cs
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\Views\CreateTaskView.g.cs
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\Views\TaskManagerView.g.cs
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\App.g.cs
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\TaskManagement_MarkupCompile.cache
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\TaskManagement_MarkupCompile.lref
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\App.baml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\Styles\ScrollBar.baml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\Views\CreateTaskView.baml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\Views\TaskManagerView.baml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\TaskManagement.g.resources
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\TaskManagement.Properties.Resources.resources
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\TaskManagement.csproj.GenerateResource.cache
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\TaskManagement.csproj.CoreCompileInputs.cache
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\TaskManagement.csproj.CopyComplete
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\TaskManagement.exe
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement\obj\Release\TaskManagement.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\sqlite3.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\TaskManagement.exe.config
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\TaskManagement.exe
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\TaskManagement.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\AutoMapper.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.Platform.Core.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.Platform.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\ControlzEx.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\EntityFramework.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\GongSolutions.Wpf.DragDrop.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\System.ValueTuple.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\System.Windows.Interactivity.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\TaskManagement.Data.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\TaskManagement.Model.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\Newtonsoft.Json.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\TaskManagement.Data.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\TaskManagement.Data.dll.config
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\TaskManagement.Model.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\AutoMapper.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\AutoMapper.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.Platform.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.Platform.Core.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\ControlzEx.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\EntityFramework.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\FluentValidation.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\GongSolutions.Wpf.DragDrop.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\GongSolutions.Wpf.DragDrop.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\System.ValueTuple.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\bin\Release\Newtonsoft.Json.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\TaskManagement.csprojResolveAssemblyReference.cache
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\Resources\Icons.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\Resources\IconsNonShared.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\Styles\Styles.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\Views\ShellView.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\Views\ShellView.g.cs
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\Views\AddEditTaskView.g.cs
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\Views\TaskManagerView.g.cs
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\App.g.cs
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\TaskManagement_MarkupCompile.cache
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\TaskManagement_MarkupCompile.lref
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\App.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\Styles\ScrollBar.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\Views\AddEditTaskView.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\Views\TaskManagerView.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\TaskManagement.g.resources
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\TaskManagement.Properties.Resources.resources
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\TaskManagement.csproj.GenerateResource.cache
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\TaskManagement.csproj.CoreCompileInputs.cache
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\TaskManagement.csproj.CopyComplete
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\TaskManagement.exe
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\TaskManagement.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\Views\SettingsView.g.cs
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\Views\SettingsView.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\Views\TaskArchiveView.g.cs
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement\obj\Release\Views\TaskArchiveView.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\Images\TaskManager_Tray.ico
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\Images\TaskManager_Tray.png
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\sqlite3.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\TaskManagement.exe.config
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\TaskManagement.exe.manifest
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\TaskManagement.application
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\TaskManagement.exe
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\TaskManagement.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\AutoMapper.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.Platform.Core.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.Platform.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\ControlzEx.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\EntityFramework.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\GongSolutions.Wpf.DragDrop.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\Newtonsoft.Json.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\Notifications.Wpf.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\System.ValueTuple.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\System.Windows.Interactivity.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\TaskManagement.Data.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\TaskManagement.Model.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\ToastNotifications.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\ToastNotifications.Messages.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\TaskManagement.Data.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\TaskManagement.Data.dll.config
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\TaskManagement.Model.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\AutoMapper.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\AutoMapper.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.Platform.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.Platform.Core.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\ControlzEx.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\EntityFramework.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\GongSolutions.Wpf.DragDrop.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\GongSolutions.Wpf.DragDrop.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\Newtonsoft.Json.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\bin\Release\System.ValueTuple.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement.csprojResolveAssemblyReference.cache
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\Resources\Icons.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\Resources\IconsNonShared.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\MainView.g.cs
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\SettingsView.g.cs
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\ShellView.g.cs
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\AddEditTaskView.g.cs
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\TaskArchiveView.g.cs
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\TaskManagerView.g.cs
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\App.g.cs
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement_Content.g.cs
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement_MarkupCompile.cache
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement_MarkupCompile.lref
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\App.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\Styles\ScrollBar.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\Styles\Styles.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\MainView.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\SettingsView.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\ShellView.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\AddEditTaskView.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\TaskArchiveView.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\TaskManagerView.baml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement.g.resources
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement.Properties.Resources.resources
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement.csproj.GenerateResource.cache
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement.csproj.CoreCompileInputs.cache
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement.exe.manifest
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement.application
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement.csproj.CopyComplete
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement.exe
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement.pdb
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\sqlite3.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\TaskManagement.exe.config
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\TaskManagement.exe.manifest
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\TaskManagement.application
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\TaskManagement.exe
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\TaskManagement.pdb
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\AutoMapper.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.Platform.Core.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.Platform.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\ControlzEx.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\EntityFramework.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\GongSolutions.Wpf.DragDrop.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\Newtonsoft.Json.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\Notifications.Wpf.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\System.ValueTuple.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\System.Windows.Interactivity.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\TaskManagement.Data.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\TaskManagement.Model.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\ToastNotifications.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\ToastNotifications.Messages.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\TaskManagement.Data.pdb
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\TaskManagement.Data.dll.config
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\TaskManagement.Model.pdb
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\AutoMapper.pdb
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\AutoMapper.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.Platform.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\Caliburn.Micro.Platform.Core.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\ControlzEx.pdb
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\EntityFramework.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\GongSolutions.Wpf.DragDrop.pdb
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\GongSolutions.Wpf.DragDrop.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.pdb
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\Newtonsoft.Json.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\bin\Release\System.ValueTuple.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement.csprojResolveAssemblyReference.cache
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\Resources\Icons.baml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\Resources\IconsNonShared.baml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\MainView.g.cs
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\SettingsView.g.cs
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\ShellView.g.cs
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\AddEditTaskView.g.cs
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\TaskArchiveView.g.cs
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\TaskManagerView.g.cs
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\App.g.cs
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement_Content.g.cs
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement_MarkupCompile.cache
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement_MarkupCompile.lref
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\App.baml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\Styles\ScrollBar.baml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\Styles\Styles.baml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\MainView.baml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\SettingsView.baml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\ShellView.baml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\AddEditTaskView.baml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\TaskArchiveView.baml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\Views\TaskManagerView.baml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement.g.resources
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement.Properties.Resources.resources
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement.csproj.GenerateResource.Cache
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement.csproj.CoreCompileInputs.cache
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement.exe.manifest
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement.application
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement.exe
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Release\TaskManagement.pdb

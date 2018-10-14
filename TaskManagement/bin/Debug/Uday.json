@@ -1,0 +1,352 @@
+[
+  {
+    "ID": "430c9944-274b-4832-874c-e15331b358a9",
+    "Name": "Separation of settings from shell view.",
+    "Description": "Separated settings from main view to shell view by taking small child window",
+    "Status": 0,
+    "StartDate": "2018-08-28T11:12:04.3478801+05:30",
+    "DueDate": "2018-09-07T11:12:04.3478801",
+    "CompletedDate": null,
+    "Priority": 0
+  },
+  {
+    "ID": "f5bd6eff-50ad-4506-bfeb-ecf8a1fe37cb",
+    "Name": "Review and testing task",
+    "Description": "Checking the task with possible inputs and verifying modifying some minor changes ",
+    "Status": 0,
+    "StartDate": "2018-08-28T11:13:07.0196631+05:30",
+    "DueDate": "2018-08-28T11:13:07.0196631+05:30",
+    "CompletedDate": null,
+    "Priority": 0
+  },
+  {
+    "ID": "5f2d7ce0-7f71-420b-a944-faa47a19cd32",
+    "Name": "Checking the validation of the task in the view",
+    "Description": "Showing the action events when the mouse is hovered on the list view items and removing hover menu for the completed list",
+    "Status": 0,
+    "StartDate": "2018-08-25T11:15:57.2911509+05:30",
+    "DueDate": "2018-08-28T11:15:57+05:30",
+    "CompletedDate": null,
+    "Priority": 1
+  },
+  {
+    "ID": "643d457f-fade-4703-89ea-1bb45cbb8bd8",
+    "Name": "Deleting of Tasks",
+    "Description": "Deleting the selected task when the button is clicked used action events to hit the method in the model",
+    "Status": 1,
+    "StartDate": "2018-08-24T11:15:15.4028937+05:30",
+    "DueDate": "2018-08-28T11:15:15.4028937+05:30",
+    "CompletedDate": null,
+    "Priority": 0
+  },
+  {
+    "ID": "75c29ce5-8bdd-4415-8c28-c9954da5d2c6",
+    "Name": "Editing, Deleting, Drag drop",
+    "Description": "Editing and deleting the employees with all the service layers and and verifying the same with inputs",
+    "Status": 1,
+    "StartDate": "2018-08-24T11:15:00.9633076+05:30",
+    "DueDate": "2018-08-28T11:15:00.9633076+05:30",
+    "CompletedDate": null,
+    "Priority": 1
+  },
+  {
+    "ID": "330e8f34-fe49-4aa3-9191-8b8e84dc6b9d",
+    "Name": "Adding icon to settings",
+    "Description": "Changed the settings to icon using mah apps  icons",
+    "Status": 2,
+    "StartDate": "2018-08-24T11:14:30.2355314+05:30",
+    "DueDate": "2018-08-28T11:14:30.2355314+05:30",
+    "CompletedDate": "2018-08-28T11:16:26.5884017+05:30",
+    "Priority": 2
+  },
+  {
+    "ID": "552f09e6-766d-4ddd-8f6e-d6927a8581d9",
+    "Name": "Bottom Bar",
+    "Description": "Added a bottom bar to the task and added a status which tells us to which database it is connected",
+    "Status": 1,
+    "StartDate": "2018-08-24T11:15:44.2623+05:30",
+    "DueDate": "2018-08-28T11:15:44.2623+05:30",
+    "CompletedDate": null,
+    "Priority": 0
+  },
+  {
+    "ID": "cd214c1f-aea1-478c-9d44-0fae517a6b1a",
+    "Name": "Adding story board",
+    "Description": "Adding story board to the make the icons visible on mouse hover",
+    "Status": 2,
+    "StartDate": "2018-08-25T11:14:46.0524453+05:30",
+    "DueDate": "2018-08-28T11:14:46.0524453+05:30",
+    "CompletedDate": "2018-08-28T11:16:29.8457399+05:30",
+    "Priority": 1
+  },
+  {
+    "ID": "23df32b0-0d4c-418f-9e64-2904532ae44f",
+    "Name": "Storing User Settings",
+    "Description": "Preserving the user data in the json file  to use the same settings on start up",
+    "Status": 2,
+    "StartDate": "2018-08-26T11:14:02.7473915+05:30",
+    "DueDate": "2018-08-28T11:14:02.7473915+05:30",
+    "CompletedDate": "2018-08-28T11:16:30.8684667+05:30",
+    "Priority": 1
+  },
+  {
+    "ID": "0c784fc5-871c-4676-907d-aad301a078a0",
+    "Name": "Deleting the Task",
+    "Description": "Deleting the selected employee for the tasks in the manager",
+    "Status": 2,
+    "StartDate": "2018-08-26T11:14:15.2272433+05:30",
+    "DueDate": "2018-08-28T11:14:15.2272433+05:30",
+    "CompletedDate": "2018-08-28T11:16:31.6204713+05:30",
+    "Priority": 0
+  },
+  {
+    "ID": "8e5e4506-05c4-4a26-bb81-6998a062de25",
+    "Name": "Adding view for tasks list",
+    "Description": "Adding a new view for the task which displays all the tasks in the database by taking grid view and customizing it",
+    "Status": 2,
+    "StartDate": "2018-08-26T11:11:09.2992313+05:30",
+    "DueDate": "2018-08-28T11:11:09.2992313+05:30",
+    "CompletedDate": "2018-08-28T11:16:34.1035151+05:30",
+    "Priority": 2
+  },
+  {
+    "ID": "913b57bb-de7e-4318-8542-a42ff46a5092",
+    "Name": "Sql Service and Sql Lite Service",
+    "Description": "Updated the task with service layers by taking  configurations from the user",
+    "Status": 0,
+    "StartDate": "2018-08-21T11:16:21.6192303+05:30",
+    "DueDate": "2018-08-28T11:16:21.6192303+05:30",
+    "CompletedDate": null,
+    "Priority": 0
+  },
+  {
+    "ID": "ed4b23cc-ce48-40f8-914f-eb2300168d77",
+    "Name": "Issue in Drag Drop",
+    "Description": "Changing the status type of the task when it is dragged from one list to other and also verification of the tasks with the lists",
+    "Status": 0,
+    "StartDate": "2018-08-21T11:17:06.5630462+05:30",
+    "DueDate": "2018-08-28T11:17:06.5630462+05:30",
+    "CompletedDate": null,
+    "Priority": 0
+  },
+  {
+    "ID": "c6d33080-d7d4-447f-b4ae-e40d8dbf88a5",
+    "Name": "Date For task",
+    "Description": "Updates the models with the date for UI model and data model and updating same on the main view",
+    "Status": 0,
+    "StartDate": "2018-08-15T11:17:17.779082+05:30",
+    "DueDate": "2018-08-28T11:17:17.779082+05:30",
+    "CompletedDate": null,
+    "Priority": 0
+  },
+  {
+    "ID": "28cdf871-2b47-44af-89de-a0d046ec16ae",
+    "Name": "DB Context of EF",
+    "Description": "Used db context class with the dynamic connection string and storing in database",
+    "Status": 2,
+    "StartDate": "2018-08-15T11:13:48.8912641+05:30",
+    "DueDate": "2018-08-28T11:13:48.8912641+05:30",
+    "CompletedDate": "2018-08-28T11:18:57.9810812+05:30",
+    "Priority": 2
+  },
+  {
+    "ID": "77317c81-d18c-4800-9b3d-b3d29bb500b5",
+    "Name": "Settings in Top Bar",
+    "Description": "Adding setting to top bar using Right Windows Commands",
+    "Status": 2,
+    "StartDate": "2018-08-20T11:17:59.1629673+05:30",
+    "DueDate": "2018-08-28T11:17:59.1629673+05:30",
+    "CompletedDate": "2018-08-28T12:44:05.0018991+05:30",
+    "Priority": 0
+  },
+  {
+    "ID": "2b5192d1-95c8-4804-b7ca-d0a50652e10d",
+    "Name": "Adjusting Borders for list View",
+    "Description": "Removed the unnecessary borders for the list views in the min view",
+    "Status": 2,
+    "StartDate": "2018-08-21T11:15:32.9713742+05:30",
+    "DueDate": "2018-08-28T11:15:32.9713742+05:30",
+    "CompletedDate": "2018-08-28T12:54:46.8070606+05:30",
+    "Priority": 0
+  },
+  {
+    "ID": "056654e1-a192-4efd-9242-f4c7deb80ccd",
+    "Name": "Settings View",
+    "Description": "Adding text boxes to take input required for the creation of databases and enabling and disabling of text boxes based on the user selection",
+    "Status": 2,
+    "StartDate": "2018-08-26T11:17:43.3554321+05:30",
+    "DueDate": "2018-08-28T11:17:43.3554321+05:30",
+    "CompletedDate": "2018-08-28T14:13:23.1187975+05:30",
+    "Priority": 1
+  },
+  {
+    "ID": "25278ca8-6a03-4ad7-9495-541317b36901",
+    "Name": "Simple child window ",
+    "Description": "Used mah apps simple window to display the window on button click",
+    "Status": 0,
+    "StartDate": "2018-08-28T11:18:41.411276+05:30",
+    "DueDate": "2018-08-28T11:18:41.411276+05:30",
+    "CompletedDate": null,
+    "Priority": 0
+  },
+  {
+    "ID": "6a4da400-67c9-40b1-b7e8-e43a1422e9b5",
+    "Name": "Attaching Method to Button",
+    "Description": "Attached a method to the button to display window",
+    "Status": 1,
+    "StartDate": "2018-08-24T11:18:26.9545466+05:30",
+    "DueDate": "2018-08-28T11:18:26.9545466+05:30",
+    "CompletedDate": null,
+    "Priority": 2
+  },
+  {
+    "ID": "690529cf-5f89-48a8-95d2-12e980d704f5",
+    "Name": "Connection Service ",
+    "Description": "Created connection service layer for the to get and save the user selection to select database",
+    "Status": 0,
+    "StartDate": "2018-08-25T11:12:55.1637721+05:30",
+    "DueDate": "2018-08-28T11:12:55.1637721+05:30",
+    "CompletedDate": null,
+    "Priority": 0
+  },
+  {
+    "ID": "eae09d46-c46d-46c8-ac77-06cd9b057c81",
+    "Name": "Adding separate view for the the main window",
+    "Description": "Adding separate view for the main view which changes on view on change",
+    "Status": 0,
+    "StartDate": "2018-08-28T11:07:14.2890727+05:30",
+    "DueDate": "2018-08-28T11:07:14.2900721+05:30",
+    "CompletedDate": null,
+    "Priority": 0
+  },
+  {
+    "ID": "b343fbff-36b9-44df-a680-8c57b87ebad9",
+    "Name": "Connection to database using dynamic strings",
+    "Description": "Created database using connection strings dynamically for both server and windows authentication and storing the data in SQL server",
+    "Status": 0,
+    "StartDate": "2018-08-22T11:13:32.0771289+05:30",
+    "DueDate": "2018-08-28T11:13:32.0771289+05:30",
+    "CompletedDate": null,
+    "Priority": 2
+  },
+  {
+    "ID": "93d19b00-ccb6-4c41-a2a2-d39030d2cf5d",
+    "Name": "Code Review and Modifications",
+    "Description": "Changing the naming convections, validation of the task, base view model with some common used code and minor design modifications",
+    "Status": 2,
+    "StartDate": "2018-08-28T11:11:22.9640133+05:30",
+    "DueDate": "2018-08-28T11:11:22.9640133+05:30",
+    "CompletedDate": "2018-09-05T11:34:58.8661895+05:30",
+    "Priority": 1
+  },
+  {
+    "ID": "abe8b554-e7bf-4551-9a5f-f5bc4602cb31",
+    "Name": "Generation of manifest  file",
+    "Description": "Generated exe file for the task and installing and verifying the task in the machine",
+    "Status": 1,
+    "StartDate": "2018-08-28T11:11:38.7711437+05:30",
+    "DueDate": "2018-08-28T11:11:38.7711437+05:30",
+    "CompletedDate": null,
+    "Priority": 1
+  },
+  {
+    "ID": "e0a20075-a220-4929-9160-39109c545e38",
+    "Name": "Tasks View ",
+    "Description": "Adding a new view which displays all the tasks for the user",
+    "Status": 1,
+    "StartDate": "2018-08-25T11:11:53.1477754+05:30",
+    "DueDate": "2018-08-28T11:11:53.1477754+05:30",
+    "CompletedDate": null,
+    "Priority": 0
+  },
+  {
+    "ID": "7fdc599f-f9ef-4fdd-8b23-6a59897567b2",
+    "Name": "Adding a new view for list of tasks",
+    "Description": "Adding new user control with DataGrid to display the tasks",
+    "Status": 1,
+    "StartDate": "2018-08-18T11:13:18.1802256+05:30",
+    "DueDate": "2018-08-28T11:13:18.1802256+05:30",
+    "CompletedDate": null,
+    "Priority": 1
+  },
+  {
+    "ID": "c8d17068-bcc3-444f-bd6c-0702a7acd15a",
+    "Name": "Code First in EF",
+    "Description": "Used code first approach in Entity framework for the creation of database in SQL Server layer",
+    "Status": 0,
+    "StartDate": "2018-08-10T11:17:29.6432036+05:30",
+    "DueDate": "2018-08-28T11:17:29.6432036+05:30",
+    "CompletedDate": null,
+    "Priority": 2
+  },
+  {
+    "ID": "430c9944-274b-4832-874c-e15331b358a9",
+    "Name": "Separation of settings from shell view",
+    "Description": "Separated settings from main view to shell view by taking small child window",
+    "Status": 0,
+    "StartDate": "2018-08-28T11:12:04.3478801+05:30",
+    "DueDate": "2018-08-28T11:12:04.3478801+05:30",
+    "CompletedDate": null,
+    "Priority": 0
+  },
+  {
+    "ID": "255e79d9-2be3-4539-9d33-fe86d4246efc",
+    "Name": "Verifying the manifest file",
+    "Description": "Verifying the task by installing manifest file and checking the functionalities of the task ",
+    "Status": 1,
+    "StartDate": "2018-08-28T11:10:47.6766208+05:30",
+    "DueDate": "2018-08-28T11:10:47.6766208+05:30",
+    "CompletedDate": null,
+    "Priority": 1
+  },
+  {
+    "ID": "1268a76f-2b51-44d7-832d-863c3f95e7b3",
+    "Name": "Editing the task",
+    "Description": "Editing the task when it is clicked used event aggregators to pass data from one model to other took  a message helper for the same purpose ",
+    "Status": 0,
+    "StartDate": "2018-08-25T11:16:09.4434159+05:30",
+    "DueDate": "2018-08-28T11:16:09.4434159+05:30",
+    "CompletedDate": null,
+    "Priority": 2
+  },
+  {
+    "ID": "cfee931c-5ebb-40e1-8419-a29240c8be91",
+    "Name": "New view for the tasks ",
+    "Description": "Adding a new view for the tasks list by using data grid view with all the details and adding pending for completed date if it is not completed",
+    "Status": 0,
+    "StartDate": "2018-08-28T11:10:33.9796988+05:30",
+    "DueDate": "2018-08-28T11:10:33.9796988+05:30",
+    "CompletedDate": null,
+    "Priority": 2
+  },
+  {
+    "ID": "4818d675-b990-4fa8-bbf7-ddc2bf17d40c",
+    "Name": "1",
+    "Description": "1",
+    "Status": 0,
+    "StartDate": "2018-09-08T18:59:24.9253407+05:30",
+    "DueDate": "2018-09-08T18:59:24.9253407+05:30",
+    "CompletedDate": null,
+    "Priority": 0
+  },
+  {
+    "ID": "b9870f6f-3011-40ee-882b-0eca261e7971",
+    "Name": "2",
+    "Description": "2",
+    "Status": 0,
+    "StartDate": "2018-09-08T18:59:56.2397502+05:30",
+    "DueDate": "2018-09-08T18:59:56+05:30",
+    "CompletedDate": null,
+    "Priority": 0
+  },
+  {
+    "ID": "2bb6ec73-7c5e-4363-8280-f2a07ed7ddb5",
+    "Name": "1",
+    "Description": "1",
+    "Status": 1,
+    "StartDate": "2018-09-08T19:10:14.5995123+05:30",
+    "DueDate": "2018-09-08T19:10:14+05:30",
+    "CompletedDate": null,
+    "Priority": 0
+  }
+]

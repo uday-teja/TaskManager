@@ -1,0 +1,20 @@
+﻿TaskManagement
+
+
+winexe
+C#
+.cs
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\obj\Debug\
+TaskManagement
+none
+false
+DEBUG;TRACE
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement\App.xaml
+10989486870
+1-1682558329
+26-2035517179
+90-1088189543
+Resources\Icons.xaml;Resources\IconsNonShared.xaml;Styles\ScrollBar.xaml;Styles\Styles.xaml;Views\MainView.xaml;Views\SettingsView.xaml;Views\ShellView.xaml;Views\AddEditTaskView.xaml;Views\TaskArchiveView.xaml;Views\TaskManagerView.xaml;
+images\taskmanager _splashscreen.ico
+False
+

@@ -1,0 +1,207 @@
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Model\bin\Debug\TaskManagement.Model.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Model\bin\Debug\TaskManagement.Model.pdb
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.Core.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Model\bin\Debug\FluentValidation.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Model\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Model\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Model\bin\Debug\System.ValueTuple.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Model\bin\Debug\System.Windows.Interactivity.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.Core.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Model\bin\Debug\FluentValidation.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Model\bin\Debug\System.ValueTuple.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csprojResolveAssemblyReference.cache
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csproj.CoreCompileInputs.cache
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csproj.CopyComplete
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell)\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.pdb
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\TaskManagement.Model.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\TaskManagement.Model.pdb
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.Core.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\FluentValidation.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\System.ValueTuple.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\System.Windows.Interactivity.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.Core.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\FluentValidation.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\System.ValueTuple.xml
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csprojResolveAssemblyReference.cache
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csproj.CoreCompileInputs.cache
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csproj.CopyComplete
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.dll
+E:\Tasks\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.pdb
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\TaskManagement.Model.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\TaskManagement.Model.pdb
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\FluentValidation.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\System.ValueTuple.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.xml
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\FluentValidation.xml
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\System.ValueTuple.xml
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csprojResolveAssemblyReference.cache
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.dll
+C:\Users\udayt\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\TaskManagement.Model.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\TaskManagement.Model.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\FluentValidation.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\System.ValueTuple.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\FluentValidation.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\System.ValueTuple.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csprojResolveAssemblyReference.cache
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csproj.CopyComplete
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\24 Task Management Cauliburn Micro (Shell) - Copy(1)\24 Task Management Cauliburn Micro (Shell) - Copy\TaskManagement\TaskManagement.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\TaskManagement.Model.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\TaskManagement.Model.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\FluentValidation.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\System.ValueTuple.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\FluentValidation.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\System.ValueTuple.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csprojResolveAssemblyReference.cache
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csproj.CopyComplete
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.pdb
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\TaskManagement.Model.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\TaskManagement.Model.pdb
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\FluentValidation.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\System.ValueTuple.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.xml
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\FluentValidation.xml
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\System.ValueTuple.xml
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csprojResolveAssemblyReference.cache
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.dll
+C:\Users\udayt\Desktop\Task\Task\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\TaskManagement.Model.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\TaskManagement.Model.pdb
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\FluentValidation.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\System.ValueTuple.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\FluentValidation.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\System.ValueTuple.xml
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csproj.CopyComplete
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.dll
+C:\Users\udayteja.g.TECHNOVERT\Desktop\Task\Task\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.pdb
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\TaskManagement.Model.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\TaskManagement.Model.pdb
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\FluentValidation.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\System.ValueTuple.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\FluentValidation.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\bin\Debug\System.ValueTuple.xml
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csprojResolveAssemblyReference.cache
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.dll
+C:\Users\udayt\Desktop\Task (2)\Task\Task\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.pdb
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\TaskManagement.Model.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\TaskManagement.Model.pdb
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\FluentValidation.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\System.ValueTuple.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\FluentValidation.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\bin\Debug\System.ValueTuple.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csprojResolveAssemblyReference.cache
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.pdb
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Model\bin\Debug\TaskManagement.Model.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Model\bin\Debug\TaskManagement.Model.pdb
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Model\bin\Debug\FluentValidation.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Model\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Model\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Model\bin\Debug\System.ValueTuple.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Model\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Model\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Model\bin\Debug\FluentValidation.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Model\bin\Debug\System.ValueTuple.xml
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.dll
+C:\Users\udayt\Desktop\TaskManagement\TaskManagement\TaskManagement.Model\obj\Debug\TaskManagement.Model.pdb
